@@ -7,7 +7,7 @@ This is my own C++ up-to-date version of the RawDataMessage implementation (whic
 The AS3 folder is the original deobfuscated code from the RawDataMessage who was taken from Sorrow (https://github.com/LuaxY/Dofus-Anti-Bot)
 
 
-Explanation of my C++ classe:
+Explanation of my C++ classes:
 
   -> The BinariesIO contains two classes that are used to extract 
      the value of the two randome datas
