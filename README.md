@@ -10,7 +10,7 @@ The AS3 folder is the original deobfuscated code from the RawDataMessage who was
 Explanation of my C++ classes:
 
   -> The BinariesIO contains two classes that are used to extract 
-     the value of the two randome datas
+     the value of the two random datas
      
   -> The RpnParser is used to parse the reverse polish bytecode arithmetics
      notation (used by BinariesIO)
